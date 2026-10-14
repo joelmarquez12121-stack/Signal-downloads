@@ -1,5 +1,5 @@
 {
-  "revision": "2026-10-14T16:35:34.491Z",
+  "revision": "2026-10-14T16:39:41.555Z",
   "videos": [
     {
       "id": "uhS8K4gFu4s",
@@ -2632,10 +2632,10 @@
       "availability": "available",
       "checkedAt": "2026-10-14T16:31:28.454Z",
       "usefulness": "Learn why solar conjunction interrupts spacecraft communication and why controllers prepare ahead. Full NASA transcript explains solar interference, data retransmission and planned command pauses. Its simplified bonfire analogy is qualitative; communication policies vary by mission.",
-      "evidence": "Duplicate NASA episode of existing TZw74PKoajU: same title, 60.021-second duration and complete solar-conjunction transcript. Preserve owned reference; do not repeat this content in either feed.",
-      "reviewedAt": "2026-10-14T16:35:30.226Z",
+      "evidence": "Duplicate NASA episode of existing TZw74PKoajU: identical solar-conjunction transcript and 60.021-second duration. Preserve owned reference; do not repeat this content in either feed. NASA publisher disclosure corrected.",
+      "reviewedAt": "2026-10-14T16:39:39.420Z",
       "reviewer": "agent-assisted",
-      "sponsorship": "Publisher promotes Open University learning resources; no third-party sponsorship established.",
+      "sponsorship": "NASA educational publisher; no third-party sponsorship established from the complete transcript and description.",
       "provenance": "https://www.youtube.com/watch?v=wuZIroucO6E",
       "expiresAt": null,
       "rejectionReason": null
