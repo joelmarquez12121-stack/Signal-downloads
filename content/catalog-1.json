@@ -1,5 +1,5 @@
 {
-  "revision": "2026-10-14T23:31:23.185Z",
+  "revision": "2026-10-14T23:39:40.147Z",
   "videos": [
     {
       "id": "uhS8K4gFu4s",
@@ -3536,6 +3536,35 @@
       "reviewer": "agent-assisted",
       "sponsorship": "Academia Play solicita apoyo voluntario mediante Patreon, miembros del canal y PayPal. No hay una inserción comercial en los subtítulos completos; financiación no auditada independientemente.",
       "provenance": "https://www.youtube.com/watch?v=Y-64iadoI_E",
+      "expiresAt": null,
+      "rejectionReason": null
+    },
+    {
+      "id": "8S2EY5BEa6Y",
+      "provider": "youtube",
+      "title": "Brasil: Lula da Silva y Bolsonaro se disputan voto religioso • FRANCE 24 Español",
+      "creator": "FRANCE 24 Español",
+      "creatorUrl": "https://www.youtube.com/@France24_es",
+      "topic": "World news",
+      "secondaryTopics": "[]",
+      "description": null,
+      "duration": 115,
+      "language": "es",
+      "difficulty": "introductory",
+      "format": "reporting",
+      "aspect": "portrait",
+      "publishedAt": "2026-10-14",
+      "eventAt": null,
+      "importedAt": "2026-10-14T23:38:08.994Z",
+      "status": "approved",
+      "availability": "available",
+      "checkedAt": "2026-10-14T23:36:42.978Z",
+      "usefulness": "Resume el papel del voto religioso y las disputas de campaña en la segunda vuelta presidencial de Brasil, con declaraciones de ambos candidatos.",
+      "evidence": "Revisión completa de los subtítulos automáticos españoles (0:01–1:39) y descripción ampliada del editor. La página oficial muestra fecha de publicación 14 oct 2026, verificada el 14 de octubre; no se infiere una fecha exacta para cada hecho. Reporta actos de campaña, una acusación sobre la patrona de Brasil que Flávio Bolsonaro niega y una crítica de Lula a una medida electoral. Las acusaciones y opiniones de candidatos se atribuyen a quienes las expresan; el video no constituye una resolución judicial ni un respaldo electoral. La noticia puede cambiar después de su publicación y sale del feed al superar siete días. Reproducción oficial de 114.461 s, estado 1 y tiempo avanzando. Los subtítulos son automáticos; no se afirma una escucha del audio.",
+      "reviewedAt": "2026-10-14T23:38:10.558Z",
+      "reviewer": "agent-assisted",
+      "sponsorship": "France 24 pertenece a France Médias Monde. El grupo declara financiación mediante una fracción del IVA francés y recursos publicitarios: https://www.francemediasmonde.com/en/the-group/financing/. No se identifica una inserción publicitaria en el texto del clip; financiación no auditada independientemente.",
+      "provenance": "https://www.youtube.com/watch?v=8S2EY5BEa6Y",
       "expiresAt": null,
       "rejectionReason": null
     }
