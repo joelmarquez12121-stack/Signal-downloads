@@ -1,5 +1,5 @@
 {
-  "revision": "2026-10-15T16:48:20.206Z",
+  "revision": "2026-10-16T02:09:42.834Z",
   "videos": [
     {
       "id": "uhS8K4gFu4s",
@@ -3623,6 +3623,35 @@
       "reviewer": "agent-assisted",
       "sponsorship": "El editor promociona sus libros y curso mediante enlaces comerciales en la descripción, y solicita Patreon, membresías y donaciones. No se identifica una inserción publicitaria en los subtítulos de este corto; financiación no auditada independientemente.",
       "provenance": "https://www.youtube.com/watch?v=xWSAzA7iB38",
+      "expiresAt": null,
+      "rejectionReason": null
+    },
+    {
+      "id": "YRxcEVPrsn8",
+      "provider": "youtube",
+      "title": "Equilibrio Oferta y Demanda en Economía #shorts #shortseconomia",
+      "creator": "Educación de Excelencia. Sebastián Carli",
+      "creatorUrl": "https://www.youtube.com/@Educaci%C3%B3ndeExcelencia.Sebasti%C3%A1",
+      "topic": "Economics",
+      "secondaryTopics": "[]",
+      "description": null,
+      "duration": 57,
+      "language": "es",
+      "difficulty": "introductory",
+      "format": "explanation",
+      "aspect": "portrait",
+      "publishedAt": null,
+      "eventAt": null,
+      "importedAt": "2026-10-16T02:09:37.084Z",
+      "status": "approved",
+      "availability": "available",
+      "checkedAt": "2026-10-16T02:08:48.635Z",
+      "usefulness": "Dibuja las curvas de oferta y demanda y sitúa su intersección como precio y cantidad de equilibrio en el modelo básico de mercado.",
+      "evidence": "Revisión completa del texto español disponible en la transcripción oficial recuperada mediante Context.dev (0:00–0:56), identidad del creador confirmada por el reproductor y oEmbed oficiales, e inspección visual del corto vertical con gráficos a mano. El precio y la cantidad demandada se mueven en sentidos opuestos; precio y cantidad ofrecida en el mismo sentido. Se presenta el modelo introductorio habitual manteniendo otros factores constantes: son movimientos sobre las curvas, no desplazamientos de la demanda u oferta completa. No se afirma que todos los mercados reales sigan siempre estas pendientes ni que este esquema prediga inversiones. La intersección P0/Q0 representa el equilibrio del modelo. Contraste con la sección 3.1 de Principles of Economics 3e de OpenStax: https://openstax.org/books/principles-economics-3e/pages/3-1-demand-supply-and-equilibrium-in-markets-for-goods-and-services. Duración real 56.121 s, redondeada a 57; estado oficial 1 y tiempo avanzando. No se afirma escucha del audio ni fecha de publicación conocida.",
+      "reviewedAt": "2026-10-16T02:09:37.882Z",
+      "reviewer": "agent-assisted",
+      "sponsorship": "La imagen incluye una llamada a dar like y suscribirse. No se identifica una inserción comercial en la transcripción disponible ni una descripción comercial en la evidencia recuperada; la financiación del creador no se ha verificado. No es asesoramiento financiero.",
+      "provenance": "https://www.youtube.com/watch?v=YRxcEVPrsn8",
       "expiresAt": null,
       "rejectionReason": null
     }
